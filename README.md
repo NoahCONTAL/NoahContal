@@ -19,5 +19,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-[![nonotor_67's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonotor67&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonotor67&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![nonotor_67's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonotor67&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonotor67&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</p>
